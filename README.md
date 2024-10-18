@@ -23,3 +23,4 @@
 * HTML ve CSS yapısı, (böl - parçala - yönet) sistemine uygun şekilde ayrılmıştır.
 * "Routes" yapıları da (böl - parçala - yönet) sistemine uygun şekilde tasarlanmıştır.
 * Default olarak ***Ana Sayfaya*** atılan istekler için ```<h1> Hello world </h1>``` çıktısı verilirken bulunmayan sayfalara atılan istekler için ise küçük bir "404" sayfası tasarlanmıştır.
+![alt Text]([https://hizliresim.com/bnc2czo.png](https://i.hizliresim.com/bnc2czo.png))
